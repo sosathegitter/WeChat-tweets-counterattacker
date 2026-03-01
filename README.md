@@ -8,11 +8,11 @@
 
 ## 👤 Author
 
-**Sosa**
+**Sosa**-（准）算法工程师
 *   Github: [@sosathegitter](https://github.com/sosathegitter)
 *   Email: [919479311@qq.com]
 
-**老王**
+**老王**-（准）算法工程师
 *   Email: [738714836@qq.com]
 
 
